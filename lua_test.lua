@@ -7,7 +7,3 @@
 --
 
 11111
-
-
-
-there is a new world
